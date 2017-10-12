@@ -14,7 +14,7 @@ A school district recently implemented a pilot model of teacher assessment to me
 ## Who is your client and why do they care about this problem? In other words, what will your client DO or DECIDE based on your analysis that they wouldn’t have otherwise?
 
 * My client is the Superintendent of a school district. The superintendent wants to measure teachers' impact on student outcomes through this new teacher assessment, which is executed by the school leaders(principals & asst. principals). 
-* The raw data(survey) reflects school leaders’ feedback and satisfaction levels on this new teacher assessment. Based on my analysis of the survey, the superintendent may consider changes to the teacher assessment and its implementation so it will better reflect and improve teachers’ instructional performance. 
+* The raw data(dataframe) is a survey result that reflects school leaders’ feedback and satisfaction levels on this new teacher assessment. Based on my analysis of the data and findings, the superintendent may consider changes to the teacher assessment and its implementation so it will better reflect and improve teachers’ instructional performance. 
  
 ## What data are you going to use for this? How will you acquire this data?
 
@@ -22,8 +22,7 @@ The survey **dataset**(raw data) is in the form of an excel file, which can be d
 
 ## In brief, outline your approach to solving this problem (knowing that this might change later). 
 
-Firt, I'll use dplyr commands to the raw data to identify key questions & answer patterns. Then I'll use ggplot to visualize the answer patterns as indicators of 
-survey analysis.
+Firt, I'll use dplyr commands to the raw data to identify key questions & answer patterns. Then I'll use ggplot to visualize the answer patterns as indicators of survey analysis.
 
 ## What are your deliverables? Typically, this would include code, along with a paper and/or a slide deck.
 There will be an introductory and visual charts, using a slide deck for 10-15 min. 
