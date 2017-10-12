@@ -18,7 +18,7 @@ A school district recently implemented a pilot model of teacher assessment to me
  
 ## What data are you going to use for this? How will you acquire this data?
 
-The survey **dataset**(raw data) is in the form of an excel file, which can be downloaded at [Yumi's dataset](https://github.com/yumi2014/Springboard/blob/master/dataset.xls)  I was asked to convert it to a csv file to import to RStudio where I can visualize each data component.
+The survey **dataset**(raw data) is in the form of an excel file, which can be downloaded at [Yumi's dataframe](https://github.com/yumi2014/Capstone/blob/master/dataframe.csv)  I was asked to convert it to a csv file to import to RStudio where I can visualize each data component.
 
 ## In brief, outline your approach to solving this problem (knowing that this might change later). 
 
